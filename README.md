@@ -2,6 +2,8 @@
 
 #실행방법
 
+#master branch로 변경
+
 #db_create.sql 실행
 
 #web application 실행 시 tomcat에 jndi 설정(application.properties 파일의 jdbc/erp_support 를 설정한 값으로 변경해서 DB연결)
